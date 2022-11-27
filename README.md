@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AtlasSite or Jacob
+- 👀 I’m interested in ai and self functioning things
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on self learning ai
+- 📫 How to reach me? Just write on my mail it's spaceitdata@gmail
